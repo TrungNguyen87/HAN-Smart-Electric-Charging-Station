@@ -1,0 +1,6 @@
+The EV charging station is designed for easy payment-based charging of electric 
+vehicles at residential, workplace and other semi-public applications. 
+It has been evaluated while applying the EN 50470-1 and 50470-3 as harmonised 
+standards and the Guide Welmec 7.2. for the software. 
+After the complete evaluation, the EV charging station is approved via 
+EU type examination Certificate no. T11910.
