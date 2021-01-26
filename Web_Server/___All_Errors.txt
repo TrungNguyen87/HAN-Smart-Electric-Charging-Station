@@ -1,0 +1,27 @@
+CorrelationId: 7e76a913-c22a-47cb-b7c1-5197b6797a5a
+UTC DateTime: 1/22/2021 1:29:10 PM
+
+The following files/folders have not been downloaded
+1. HANwatts_Pi-main/node-red-1881/node_modules/socket.io-client/lib
+2. HANwatts_Pi-main/node-red-1881/node_modules/socket.io-client/node_modules
+3. HANwatts_Pi-main/node-red-1881/node_modules/socket.io-parser
+4. HANwatts_Pi-main/node-red-1881/node_modules/sqlite3
+5. HANwatts_Pi-main/node-red-1881/node_modules/statuses
+6. HANwatts_Pi-main/node-red-1881/node_modules/string_decoder
+7. HANwatts_Pi-main/node-red-1881/node_modules/string-width
+8. HANwatts_Pi-main/node-red-1881/node_modules/strip-ansi
+9. HANwatts_Pi-main/node-red-1881/node_modules/strip-json-comments
+10. HANwatts_Pi-main/node-red-1881/node_modules/tar
+11. HANwatts_Pi-main/node-red-1881/node_modules/to-array
+12. HANwatts_Pi-main/node-red-1881/node_modules/toidentifier
+13. HANwatts_Pi-main/node-red-1881/node_modules/util-deprecate
+14. HANwatts_Pi-main/node-red-1881/node_modules/vary
+15. HANwatts_Pi-main/node-red-1881/node_modules/wide-align
+16. HANwatts_Pi-main/node-red-1881/node_modules/wrappy
+17. HANwatts_Pi-main/node-red-1881/node_modules/ws
+18. HANwatts_Pi-main/node-red-1881/node_modules/xmlhttprequest-ssl
+19. HANwatts_Pi-main/node-red-1881/node_modules/yallist
+20. HANwatts_Pi-main/node-red-1881/node_modules/yeast
+21. HANwatts_Pi-main/sql_databases
+22. HANwatts_Pi-main/TestMQTT
+23. HANwatts_Pi-main/userID
